@@ -1,0 +1,1000 @@
+  433  g++ demo18.cpp
+  434  ./a.out
+  435  g++ demo18.cpp
+  436  ./a.out
+  437  g++ demo18.cpp
+  438  valgrind
+  439  g++ demo18.cpp
+  440  valgrind ./a.out
+  441  g++ demo18.cpp
+  442  valgrind -32
+  443  sudo snap install valgrind
+  444  g++ demo19.cpp
+  445  sudo snap install valgrind
+  446  g++ demo19.cpp
+  447  ./a.out
+  448  g++ demo19.cpp
+  449  ./a.out
+  450  assignment2Q4.cpp
+  451  g++ assignment2Q4.cpp
+  452  assignment2Q4.cpp
+  453  g++ assignment2Q4.cpp
+  454  ./a.out
+  455  g++ assignment2Q4.cpp
+  456  ./a.out
+  457  g++ assignment2Q4.cpp
+  458  ./a.out
+  459  g++ assignment2Q4.cpp
+  460  ./a.out
+  461  g++ assignment2Q4.cpp
+  462  ./a.out
+  463  g++ assignment2Q4.cpp
+  464  ./a.out
+  465  g++ assignment2Q4.cpp
+  466  ./a.out
+  467  git pull
+  468  g++ demo20.cpp
+  469  ./a.out
+  470  g++ demo20.cpp
+  471  ./a.out
+  472  apt-cache search chrome browser
+  473  sudo apt-get install libxss1 libappindicator1 libindicator7
+  474  wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+  475  sudo apt install ./google-chrome*.deb
+  476  g++ demo20.cpp
+  477  ./a.out
+  478  g++ demoAscociation.cpp
+  479  g++ demoAsscociation.cpp
+  480  ./a.out
+  481  sudo snap install valgrind
+  482  sudo apt install valgrind
+  483  see 'snap info valgrind'for additional version
+  484  g++ demoaggregation.cpp
+  485  ./a.out
+  486  g++ demoaggregation.cpp
+  487  valgrind ./a.out
+  488  g++ demoaggregation.cpp
+  489  valgrind ./a.out
+  490  g++ demoaggregation.cpp
+  491  valgrind ./a.out
+  492  g++ demoaggregation.cpp
+  493  g++ demoaggregation
+  494  g++ demoaggregation.cpp
+  495  ./a.out
+  496  g++ demoaggregation.cpp
+  497  ./a.out
+  498  g++ demo52.cpp
+  499  ./a.out
+  500  g++ inhertstorage.cpp
+  501  g++ inheritstorage.cpp
+  502  g++ demostorage.cpp
+  503  ./a.out
+  504  g++ demostorage.cpp
+  505  ./a.out
+  506  g++ demostorage.cpp
+  507  ./a.obj
+  508  .obj
+  509  .o
+  510  g++ asign4Q1.cpp
+  511  ./a.obj
+  512  g++ asign4Q1.cpp
+  513  ./a.out
+  514  g++ asign4Q1.cpp
+  515  ./a.out
+  516  g++ asign4Q1.cpp
+  517  ./a.out
+  518  g++ asign4Q1.cpp
+  519  ./a.out
+  520  g++ asign4Q1.cpp
+  521  ./a.out
+  522  g++ asign4Q1.cpp
+  523  ./a.out
+  524  g++ asign4Q1.cpp
+  525  ./a.out
+  526  g++ asign4Q1.cpp
+  527  ./a.out
+  528  g++ asign4Q1.cpp
+  529  ./a.out
+  530  g++ asign4Q1.cpp
+  531  ./a.out
+  532  g++ asign4Q1.cpp
+  533  ./a.out
+  534  git pull
+  535  git init
+  536  git add
+  537  git init
+  538  git add
+  539  git add "assignment2.cpp"
+  540  git commit -m"assignment2"
+  541  git push
+  542  git init
+  543  git add "assignment2Q2"
+  544  git add "assignment2Q2.cpp"
+  545  git commit -m "assignment2Q2.cpp"
+  546  git push
+  547  git add
+  548  git init
+  549  git add "assignment2Q3.cpp"
+  550  git commit -m "assignment2Q3.cpp"
+  551  git push
+  552  g++ asigne4Q1.cpp
+  553  g++ asign4Q1.cpp
+  554  ./a.out
+  555  g++ asign4Q1.cpp
+  556  ./a.out
+  557  g++ asign4Q1.cpp
+  558  ./a.out
+  559  git pull
+  560  g++ asign4Q1.cpp
+  561  ./a.out
+  562  git init
+  563  git add a .
+  564  git add.
+  565  git add .
+  566  git commit -m "assignment added"
+  567  git push
+  568  git clone
+  569  git clone https://github.com/D5-83923-Bhushan/cpp.git
+  570  git clone
+  571  git clone https://github.com/D5-83923-Bhushan/cpp.git
+  572  git init
+  573  git add .
+  574  git commit -m "assignment added"
+  575  git push
+  576  g++ asign4Q1.cpp
+  577  ./a.out
+  578  g++ asign4Q1.cpp
+  579  ./a.out
+  580  g++ test1.cpp
+  581  ./a.out
+  582  g++ asign4Q1.cpp
+  583  ./a.out
+  584  g++ test1.cpp
+  585  ./a.out
+  586  g++ test1.cpp
+  587  ./a.out
+  588  g++ test1.cpp
+  589  ./a.out
+  590  g++ test1.cpp
+  591  ./a.out
+  592  g++ test1.cpp
+  593  ./a.out
+  594  g++ asig4Q1.cpp
+  595  g++ asign4Q1.cpp
+  596  ./a.out
+  597  g++ demo21.cpp
+  598  ./a.out
+  599  g++ demo21.cpp
+  600  ./a.out
+  601  g++ demo21.cpp
+  602  ./a.out
+  603  g++ demo21.cpp
+  604  ./a.out
+  605  g++ asign4Q1.cpp
+  606  ./a.out
+  607  g++ demo21.cpp
+  608  ./a.out
+  609  g++ demo21.cpp
+  610  ./a.out
+  611  g++ demo21.cpp
+  612  ./a.out
+  613  g++ demo21.cpp
+  614  ./a.out
+  615  g++ demo21.cpp
+  616  ./a.out
+  617  g++ demo21.cpp
+  618  ./a.out
+  619  g++ demo21.cpp
+  620  ./a.out
+  621  g++ demo21.cpp
+  622  ./a.out
+  623  git pull
+  624  g++ demo22.cpp
+  625  ./a.out
+  626  g++ demo22.cpp
+  627  ./a.out
+  628  g++ demo22.cpp
+  629  ./a.out
+  630  g++ demo22.cpp
+  631  ./a.out
+  632  g++ demo22.cpp
+  633  ./a.out
+  634  g++ demo22.cpp
+  635  ./a.out
+  636  g++ demo22.cpp
+  637  ./a.out
+  638  g++ demo22.cpp
+  639  ./a.out
+  640  g++ demo22.cpp
+  641  ./a.out
+  642  g++ demo22.cpp
+  643  ./a.out
+  644  g++ demo22.cpp
+  645  ./a.out
+  646  g++ demo22.cpp
+  647  ./a.out
+  648  g++ test1.cpp
+  649  ./a.out
+  650  g++ test1.cpp
+  651  ./a.out
+  652  g++ test1.cpp
+  653  ./a.out
+  654  g++ aign4Q1.cpp
+  655  g++ asign4Q1.cpp
+  656  ./a.out
+  657  g++ asign4Q1.cpp
+  658  ./a.out
+  659  g++ demo22.cpp
+  660  ./a.out
+  661  g++ demo22.cpp
+  662  ./a.out
+  663  g++ demo22.cpp
+  664  ./a.out
+  665  g++ demo22.cpp
+  666  ./a.out
+  667  g++ demo22.cpp
+  668  ./a.out
+  669  g++ demo22.cpp
+  670  ./a.out
+  671  g++ demo22.cpp
+  672  ./a.out
+  673  g++ demo22.cpp
+  674  ./a.out
+  675  g++ demo22.cpp
+  676  ./a.out
+  677  g++ demo22.cpp
+  678  ./a.out
+  679  g++ demo22.cpp
+  680  g++ demo22.cpp
+  681  ./a.out
+  682  g++ demo22.cpp
+  683  ./a.out
+  684  g++ demo22.cpp
+  685  ./a.out
+  686  g++ demo22.cpp
+  687  ./a.out
+  688  g++ demo22.cpp
+  689  ./a.out
+  690  g++ demo22.cpp
+  691  ./a.out
+  692  g++ demo22.cpp
+  693  g++ demo23.cpp
+  694  git pull
+  695  g++ demo24.cpp
+  696  git pull
+  697  g++ demo24.cpp
+  698  ./a.out
+  699  g++ demo24.cpp
+  700  ./a.out
+  701  g++ demo24.cpp
+  702  ./a.out
+  703  g++ demo24.cpp
+  704  ./a.out
+  705  g++ demo24.cpp
+  706  ./a.out
+  707  g++ demo24.cpp
+  708  ./a.out
+  709  g++ demo24.cpp
+  710  ./a.out
+  711  g++ demo24.cpp
+  712  ./a.out
+  713  g++ demo25.cpp
+  714  g++ demo24.cpp
+  715  ./a.out
+  716  g++ demo24.cpp
+  717  ./a.out
+  718  g++ demo25.cpp
+  719  ./a.out
+  720  g++ assignment6.cpp
+  721  g++ Assignment6.cpp
+  722  ./a.out
+  723  g++ test3.cpp
+  724  ./a.out
+  725  g++ demmo26.cpp
+  726  g++ demo26.cpp
+  727  ./a.out
+  728  g++ demo26.cpp
+  729  ./a.out
+  730  g++ demo26.cpp
+  731  ./a.out
+  732  g++ demo26.cpp
+  733  g++ assignment7.cpp
+  734  ./a.out
+  735  g++ assignment7.cpp
+  736  ./a.out
+  737  g++ Exam.cpp
+  738  g++ Exaam.cpp
+  739  ./a.out
+  740  g++ Exaam.cpp
+  741  ./a.out
+  742  g++ assignmnet3.cpp
+  743  g++ assignmnet3Q3.cpp
+  744  ./a.out
+  745  g++ assignmnet3Q3.cpp
+  746  ./a.out
+  747  g++ assignmnet3Q3.cpp
+  748  g++ assignmnet7.cpp
+  749  g++ assignment7.cpp
+  750  ./a.out
+  751  g++ assignment7.cpp
+  752  ./a.out
+  753  g++ assignment7.cpp
+  754  ./a.out
+  755  g++ assignment7.cpp
+  756  ./a.out
+  757  g++ assignment7.cpp
+  758  ./a.out
+  759  g++ assignment7.cpp
+  760  g++ assignment7.cpp
+  761  ./a.out
+  762  g++ assignment7.cpp
+  763  ./a.out
+  764  g++ assignment7.cpp
+  765  ./a.out
+  766  g++ assignment7.cpp
+  767  valgrind ./a.out
+  768  g++ assignment7.cpp
+  769  valgrind ./a.out
+  770  g++ assignment7.cpp
+  771  valgrind ./a.out
+  772  g++ assignment7.cpp
+  773  ./a.out
+  774  g++ assignment7.cpp
+  775  ./a.out
+  776  sunbeam-pdac
+  777  Sunbeam-pdac
+  778  sunbeam-pdac
+  779  git pull
+  780  g++ assignment7.cpp
+  781  ./a.out
+  782  g++ vector.cpp
+  783  ./a.out
+  784  g++ vector.cpp
+  785  ./a.out
+  786  g++ vector.cpp
+  787  ./a.out
+  788  g++ vector.cpp
+  789  ./a.out
+  790  g++ vector.cpp
+  791  ./a.out
+  792  g++ vector.cpp
+  793  ./a.out
+  794  g++ vector.cpp
+  795  ./a.out
+  796  g++ vector.cpp
+  797  ./a.out
+  798  g++ vector.cpp
+  799  ./a.out
+  800  g++ vector.cpp
+  801  ./a.out
+  802  g++ vector.cpp
+  803  ./a.out
+  804  g++ vector.cpp
+  805  g++ vector1.cpp
+  806  ./a.out
+  807  g++ vector1.cpp
+  808  ./a.out
+  809  g++ vector1.cpp
+  810  ./a.out
+  811  g++ vector1.cpp
+  812  ./a.out
+  813  g++ vector1.cpp
+  814  ./a.out
+  815  g++ vector1.cpp
+  816  ./a.out
+  817  g++ vector1.cpp
+  818  ./a.out
+  819  g++ vector1.cpp
+  820  ./a.out
+  821  g++ vector1.cpp
+  822  ./a.out
+  823  g++ vector1.cpp
+  824  ./a.out
+  825  g++ vector1.cpp
+  826  ./a.out
+  827  code .
+  828  g++ vector2.cpp
+  829  ./a.out
+  830  g++ vector2.cpp
+  831  ./a.out
+  832  g++ vector2.cpp
+  833  ./a.out
+  834  g++ vector2.cpp
+  835  ./a.out
+  836  g++ vector2.cpp
+  837  ./a.out
+  838  g++ assignment7.cpp
+  839  ./a.out
+  840  git init
+  841  git add
+  842  git add .
+  843  git commit -m"Assignment"
+  844  git push
+  845  vector1.cpp
+  846  g++ vector.cpp
+  847  g++ vector1.cpp
+  848  ./a.out
+  849  g++ assignmnet8.cpp
+  850  ./a.out
+  851  g++ assignmnet8.cpp
+  852  ./a.out
+  853  g++ assignmnet8.cpp
+  854  ./a.out
+  855  g++ practice.cpp
+  856  ./a.out
+  857  g++ practice.cpp
+  858  ./a.out
+  859  g++ practice.cpp
+  860  ./a.out
+  861  g++ practice.cpp
+  862  ./a.out
+  863  g++ practice.cpp
+  864  ./a.out
+  865  g++ practice.cpp
+  866  ./a.out
+  867  g++ practice.cpp
+  868  ./a.out
+  869  g++ practice.cpp
+  870  ./a.out
+  871  g++ practice.cpp
+  872  ./a.out
+  873  g++ practice.cpp
+  874  ./a.out
+  875  g++ practice.cpp
+  876  ./a.out
+  877  g++ practice.cpp
+  878  ./a.out
+  879  g++ practice.cpp
+  880  ./a.out
+  881  code .
+  882  g++ onlineshopping.cpp
+  883  ./a.out
+  884  g++ onlineshopping.cpp
+  885  ./a.out
+  886  g++ onlineshopping.cpp
+  887  ./a.out
+  888  g++ onlineshopping.cpp
+  889  ./a.out
+  890  g++ onlineshopping.cpp
+  891  ./a.out
+  892  g++ onlineshopping.cpp
+  893  ./a.out
+  894  g++ onlineshopping.cpp
+  895  ./a.out
+  896  g++ onlineshopping.cpp
+  897  ./a.out
+  898  g++ onlineshopping.cpp
+  899  ./a.out
+  900  g++ onlineshopping.cpp
+  901  g++ onlineshopping.cpp
+  902  sudo apt-get update
+  903  sudo apt-get install mysql-server -y
+  904  alter user 'root'@'localhost' identified with mysql_native_password by 'manager';
+  905  sudo apt-get update
+  906  sudo apt-get install mysql-server
+  907  sudo mysql
+  908  mysql -u root -pmanager
+  909  git clone https://github.com/sunbeam-dac-march2024/dbt
+  910  git pull 
+  911  git pull
+  912  sunbeam-pdac
+  913  git pull
+  914  sudo mysql –u root –p
+  915  mysql -u root -p
+  916  mysql –u root –p
+  917  sudo mysql –u root –p
+  918  mysql –u root –p
+  919  mysql -u root -p
+  920  mysql –u D5_Bhushan_83923 –p
+  921  mysql -u D5_Bhushan_83923 -p
+  922  mysql –u root –p
+  923  mysql -u root -p
+  924  mysql -u D5_Bhushan_83923 -p 
+  925  select * from SEMP;
+  926  select *from SEMP;
+  927  select *from 'SEMP';
+  928  mysql -u D5_Bhushan_83293 -p
+  929  mysql -u D5_Bhushan_83923 -p
+  930  mysql -u D5_Bhushan_83293 -p
+  931  touch .my.cnf
+  932  mysql -u D5_Bhushan_83923 -p
+  933  sudo systemctl restart mysql
+  934  mysql -u D5_Bhushan_83923 -p
+  935  git push
+  936  git add.
+  937  git add .
+  938  git commit -m"Assignment"
+  939  git push
+  940  mysql -u D5_Bhushan_83923 -p
+  941  git clone https://github.com/D5-83923-Bhushan/DB.git
+  942  git push
+  943  git init
+  944  git add .
+  945  git push
+  946  git add .
+  947  git status
+  948  git commit -m"Assignment 1 To 6 Completed"
+  949  git push
+  950  mysql -u D5_Bhushan_83923 -p
+  951  git pull
+  952  mysql -u D5_Bhushan_83923 -p
+  953  git push
+  954  git add
+  955  git add .
+  956  git commit -m "Assignment 6 to 9 completed";
+  957  git push
+  958  git add .
+  959  git push
+  960  mysql -u D5_Bhushan_83923 -p
+  961  git pull
+  962  mysql -u D5_Bhushan_83923 -p
+  963  git pull
+  964  mysql -u D5_Bhushan_83923 -p
+  965  exit;
+  966  Bhushan@6634
+  967  mysql -u D5_Bhushan_83923 -p
+  968  mysql -u root -p
+  969  mysql -u D5_Bhushan_83923 -p
+  970  mysql -u D5_Bhushan_83923 -p
+  971  mysql -u root -p
+  972  git pull
+  973  sudo apt-get install gnupg curl
+  974  curl -fsSL https://www.mongodb.org/static/pgp/server-7.0.asc |    sudo gpg -o /usr/share/keyrings/mongodb-server-7.0.gpg    --dearmor
+  975  echo "deb [ arch=amd64,arm64 signed-by=/usr/share/keyrings/mongodb-server-7.0.gpg ] https://repo.mongodb.org/apt/ubuntu jammy/mongodb-org/7.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-7.0.list
+  976  sudo apt-get update
+  977  sudo apt-get install -y mongodb-org
+  978  echo "mongodb-org hold" | sudo dpkg --set-selections
+  979  echo "mongodb-org-database hold" | sudo dpkg --set-selections
+  980  echo "mongodb-org-server hold" | sudo dpkg --set-selections
+  981  echo "mongodb-mongosh hold" | sudo dpkg --set-selections
+  982  echo "mongodb-org-mongos hold" | sudo dpkg --set-selections
+  983  echo "mongodb-org-tools hold" | sudo dpkg --set-selections
+  984  sudo systemctl start mongod
+  985  sudo systemctl daemon-reload
+  986  sudo systemctl status mongod
+  987  sudo systemctl restart mongod
+  988  mongosh
+  989  mysql -u D5_Bhushan_83923 -p
+  990  git push
+  991  git pusj
+  992  git push
+  993  git add .
+  994  git commit -m "Assignment 10 t0 15 complete"
+  995  git push
+  996  mysql -u D5_Bhushan_83923 -p
+  997  mongosh
+  998  mysql -u D5_Bhushan_83923 -p
+  999  mongosh
+ 1000  mysql -u D5_Bhushan_83923 -p
+ 1001  mongosh
+ 1002  mysql -u D5_Bhushan_83923 -p
+ 1003  mongosh
+ 1004  mysql -u D5_Bhushan_83923 -p
+ 1005  git pull
+ 1006  open .
+ 1007  $ open
+ 1008  git clone
+ 1009  git clone https://github.com/sunbeam-dac-march2024/wpt
+ 1010  open .
+ 1011  code .
+ 1012  git pull
+ 1013  git add "Assignment1.html"
+ 1014  git clone
+ 1015  git clone https://github.com/D5-83923-Bhushan/WebTech.git
+ 1016  git add .
+ 1017  git commit -m "Assignment 1 complete"
+ 1018  git push
+ 1019  git pull
+ 1020  code .
+ 1021  git pull
+ 1022  code .
+ 1023  git pull
+ 1024  code .
+ 1025  git add .
+ 1026  git commit -m "Assignmnet 2 to 3 complete"
+ 1027  git push
+ 1028  code .
+ 1029  git pull
+ 1030  code .
+ 1031  git pull
+ 1032  code .
+ 1033  code .
+ 1034  git pull
+ 1035  code .
+ 1036  git pull
+ 1037  git push
+ 1038  git add "stickyNotes.html"
+ 1039  git commit -m "complete"
+ 1040  git push
+ 1041  git add "sticky.html"
+ 1042  git pull
+ 1043  sunbeam-pdac
+ 1044  git pull
+ 1045  code .
+ 1046  git pull
+ 1047  git pull
+ 1048  code .
+ 1049  git add .
+ 1050  git commit -m "Assignment 5 complete"
+ 1051  git push
+ 1052  code .
+ 1053  code .
+ 1054  git pull
+ 1055  git pull
+ 1056  code .
+ 1057  git pull
+ 1058  git pull
+ 1059  code .
+ 1060  git pull
+ 1061  cod .
+ 1062  code .
+ 1063  git pull
+ 1064  git pull
+ 1065  git clone https://github.com/sunbeam-dac-march2024/mern
+ 1066  git clone
+ 1067  git clone https://github.com/sunbeam-dac-march2024/mern
+ 1068  git pull
+ 1069  git clone https://github.com/sunbeam-dac-march2024/mern
+ 1070  code .
+ 1071  git clone
+ 1072  git clone https://github.com/sunbeam-dac-march2024/mern
+ 1073  code .
+ 1074  node -v
+ 1075  sudo apt install nodejs
+ 1076  node -v
+ 1077  sudo apt update
+ 1078  sudo apt install -y curl
+ 1079  curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
+ 1080  sudo apt install -y nodejs
+ 1081  node -v
+ 1082  node page1.js
+ 1083  node page2.js
+ 1084  node page3.js
+ 1085  node page2.js
+ 1086  node page3.js
+ 1087  n page4.js
+ 1088  node page4.js
+ 1089  code .
+ 1090  node page4.js
+ 1091  node page5.js
+ 1092  git pull
+ 1093  code .
+ 1094  node page1
+ 1095  day2page1.js
+ 1096  node day2page1.js
+ 1097  node page2.js
+ 1098  node page3.js
+ 1099  node day2page2.js
+ 1100  node day2page3.js
+ 1101  node day2page2.js
+ 1102  node day2page4.js
+ 1103  node day2.page4.js
+ 1104  node day2page4.js
+ 1105  node day2page5.js
+ 1106  sql
+ 1107  mysql -uD5_bhushan_83923 -p
+ 1108  mysql -uD5_Bhushan_83923 -p
+ 1109  code .
+ 1110  node day2page6.js
+ 1111  node page5.js
+ 1112  node day2page6.js
+ 1113  node testserver.js
+ 1114  mysql -uD5_bhushan_83923 -p
+ 1115  mysql -u D5_bhushan_83923 -p
+ 1116  node day2page7.js
+ 1117  node page6.js
+ 1118  code .
+ 1119  npm i
+ 1120  node -v
+ 1121  npm install
+ 1122  npm i express mysql2
+ 1123  node server.js
+ 1124  mysql -uD5_Bhushan_83923 -p
+ 1125  code .
+ 1126  npm install express 
+ 1127  npm install mysql2
+ 1128  code .
+ 1129  node server.js
+ 1130  code .
+ 1131  npm install express mysql2
+ 1132  node server.js
+ 1133  node sever.js
+ 1134  mysql -uD5_Bhushan_83923 -p
+ 1135  code .
+ 1136  test 4
+ 1137  node install express mysql2
+ 1138  node install express
+ 1139  npm install express mysql2
+ 1140  node server.js
+ 1141  node server.j
+ 1142  node server.js
+ 1143  code .
+ 1144  npm install expresss mysql2
+ 1145  node server.js
+ 1146  code .
+ 1147  mysql -uD5_Bhushan_83923 -p
+ 1148  code .
+ 1149  sunbeam-pdac
+ 1150  git pull
+ 1151  code .
+ 1152  sudo npm install -g nodemon pm2 yarn
+ 1153  npm -version
+ 1154  yarn add express mysql2
+ 1155  node server.js
+ 1156  nodemon server.js
+ 1157  code .
+ 1158  mkdir xyz
+ 1159  cd xyz/
+ 1160  mkdir pqr
+ 1161  cd..
+ 1162  cd .
+ 1163  cd ../
+ 1164  ls
+ 1165  cd xyz
+ 1166  cd pqr
+ 1167  cd ../..
+ 1168  rm -d
+ 1169  rmdir
+ 1170  ls
+ 1171  rm -r xyz
+ 1172  ls
+ 1173  nodemon server.js
+ 1174  nodemon server.js
+ 1175  nodemon server.js
+ 1176  code .
+ 1177  yarn add express mysql2
+ 1178  nodemon server.js
+ 1179  nodemom server.js
+ 1180  nodemon server.js
+ 1181  code .
+ 1182  mysql -uD5_Bhushan_83923 -p
+ 1183  yarn add express mysql2
+ 1184  yarn  add cryptoJS
+ 1185  server.js
+ 1186  node server.js
+ 1187  nodemon server.js
+ 1188  nodemo  --help
+ 1189  nodemon  --help
+ 1190  nodemon server.js
+ 1191  nodemon sever.js
+ 1192  nodemon server.js
+ 1193  nodmon server.js
+ 1194  nodemon server.js
+ 1195  nodemon server.js
+ 1196  node server.js
+ 1197  yarn add cryptoJS
+ 1198  nodemon server.js
+ 1199  sudo npm install -g nodemon pm2 yarn
+ 1200  nodemon server.js
+ 1201  node server.js
+ 1202  nodemon server.js
+ 1203  nodemon server.js
+ 1204  yarn add nodemon
+ 1205  nodemon server.js
+ 1206  node server.js
+ 1207  nodemon server.js
+ 1208  nodemon -help
+ 1209  nodemon --help
+ 1210  node server.js
+ 1211  nodemon server.js
+ 1212  code .
+ 1213  yarn install  express mysql2
+ 1214  yarn add  express mysql2
+ 1215  code .
+ 1216  npm init
+ 1217  npm i
+ 1218  yarn add express mysql2
+ 1219  yarn add crypto-js
+ 1220  nodemon server.js
+ 1221  node server.js
+ 1222  npm i
+ 1223  nodemon server.js
+ 1224  yarn add cryptoJS
+ 1225  yarn add express mysql2
+ 1226  nodemon server.js
+ 1227  [200~
+ 1228  Error: Cannot find module 'crypto-js'
+ 1229  Require stack:
+ 1230  yarn add crypto-js
+ 1231  nodemon server.js
+ 1232  code .
+ 1233  yarn add express mysql2
+ 1234  yarn add crypto-js
+ 1235  nodemon server.js
+ 1236  nodemon server.js
+ 1237  yarn add crypto-js
+ 1238  mysql -uD5_Bhushan_83923 -p
+ 1239  git pull
+ 1240  code .
+ 1241  yarn express mysql2
+ 1242  yarn add express mysql2
+ 1243  yarn add crypto-js
+ 1244  nodemon server.js
+ 1245  code .
+ 1246  nodemon server.js
+ 1247  nodemon server,js
+ 1248  nodemon server.js
+ 1249  code .
+ 1250  open .
+ 1251  code .
+ 1252  yarn express mysql2 crypto-js
+ 1253  yarn add express mysql2 
+ 1254  yarn add crypto-js
+ 1255  mysql -uD5_Bhushan_83923 -p
+ 1256  code .
+ 1257  mysql -uD5_Bhushan_83923 -p
+ 1258  yarn add  express mysql2
+ 1259  yarn add crypto-js
+ 1260  yarn add express mysql2 nodemailer multer jsonwebtoken cors moran crypto-js
+ 1261  yarn add crypto-js
+ 1262  nodemon server.js
+ 1263  git pull
+ 1264  code .
+ 1265  yarn start
+ 1266  pwd
+ 1267  npx create-react-app app1
+ 1268  code .
+ 1269  node -v
+ 1270  npm -v
+ 1271  yarn start
+ 1272  code .
+ 1273  code .
+ 1274  yarn start
+ 1275  code .
+ 1276  pwd
+ 1277  npx create-react-app app2
+ 1278  code .
+ 1279  start yarn
+ 1280  yarn start
+ 1281  git pull
+ 1282  code .
+ 1283  nodemon server.js
+ 1284  yarn
+ 1285  nodemon server.js 
+ 1286  code ,
+ 1287  code .
+ 1288  yarn start
+ 1289  code .
+ 1290  yarn start
+ 1291  yarn install
+ 1292  yarn start
+ 1293  yarn
+ 1294  yarn start
+ 1295  code .
+ 1296  yarn create-react-app app1
+ 1297  pwd
+ 1298  npx create-react-app app1
+ 1299  pwd
+ 1300  npx create-react-app app1
+ 1301  code .
+ 1302  yarn add react-router-dom
+ 1303  yarn start
+ 1304  yarn add react-router-dom
+ 1305  npm install yarn
+ 1306  yarn start
+ 1307  code .
+ 1308  yarn start
+ 1309  yarn add react-toastify
+ 1310  yarn add react -toastify
+ 1311  code .
+ 1312  yarn add axios
+ 1313  yarm start
+ 1314  yarn start
+ 1315  code .
+ 1316  yarn start
+ 1317  npm i
+ 1318  yarn start
+ 1319  code .
+ 1320  pwd
+ 1321  npx create react-app app1
+ 1322  npx create-react-app app1
+ 1323  yarn start
+ 1324  npm i
+ 1325  npm start
+ 1326  yarn start
+ 1327  npx i
+ 1328  npm i
+ 1329  yarn
+ 1330  yarn start
+ 1331  npm start
+ 1332  pwd
+ 1333  ls
+ 1334  cd app1
+ 1335  yarn
+ 1336  yarn start
+ 1337  code .
+ 1338  yarn add react-router-dom
+ 1339  code .
+ 1340  yarn start
+ 1341  yarn
+ 1342  yarn start
+ 1343  yarn install
+ 1344  yarn
+ 1345  npm i
+ 1346  yarn
+ 1347  yarn start
+ 1348  yarn add
+ 1349  pqd
+ 1350  pwd
+ 1351  cd app1
+ 1352  yarn start
+ 1353  code .
+ 1354  cwd 
+ 1355  code .
+ 1356  yarn start
+ 1357  yarn add react-toastify
+ 1358  yarn add axios
+ 1359  yarn start
+ 1360  yarn add react-router-dom
+ 1361  yarn start
+ 1362  code .
+ 1363  ode .
+ 1364  code .
+ 1365  yarn start
+ 1366  code .
+ 1367  yarn start
+ 1368  pwd
+ 1369  cd 
+ 1370  yarn start
+ 1371  cd start
+ 1372  cd app1
+ 1373  cd app
+ 1374  cd frontend
+ 1375  code .
+ 1376  yarn add express mysql2 crypto-js cors
+ 1377  code .
+ 1378  npx create-react-app front
+ 1379  pwd
+ 1380  npx create-react-app front
+ 1381  pwd
+ 1382  yarn start
+ 1383  yarn add cors
+ 1384  yarn react-router-dom
+ 1385  yarn add react-router-dom
+ 1386  yarn add react-toastify
+ 1387  yarn add axios
+ 1388  code .
+ 1389  yarn start
+ 1390  code .
+ 1391  nodemon server.js
+ 1392  code .
+ 1393  yarn start
+ 1394  pwd
+ 1395  code .
+ 1396  nodemon server.js
+ 1397  code .
+ 1398  nodemon server.js
+ 1399  mysql -uD5_Bhushan_83923 -p
+ 1400  pwd
+ 1401  npx create-react-app backend
+ 1402  code .
+ 1403  mysql -uD5_Bhushan_83923 -p
+ 1404  yarn start
+ 1405  code .
+ 1406  npx create-react-app1
+ 1407  pwd
+ 1408  npx create-react-app app1
+ 1409  code .
+ 1410  npx create-react-app app1
+ 1411  code .
+ 1412  yarn add mysql-2
+ 1413  yarn add express mysql2
+ 1414  code .
+ 1415  git clone "https://github.com/sunbeam-dac-march2024/os"
+ 1416  mkdir -p /home/bhushan/Desktop/Os Assignment/Assignment.txt
+ 1417  cd /home/bhushan/Desktop/Os Assignment/
+ 1418  mkdir -p /home/bhushan/Desktop/Os_Assignment/Assignment.txt
+ 1419  mv /home/bhushan/Desktop/Os_Assignment/Assignment.txt/ /home/bhushan/Desktop/Os_Assignment/Assignment1
+ 1420  man cat
+ 1421  pwd
+ 1422  cd /home/bhushan/Desktop/Os_Assignment
+ 1423  ls
+ 1424  cat >/home/bhushan/Desktop/Os_Assignment/Assignment1/assignment.txt
+ 1425  cal
+ 1426  ncal
+ 1427  sudo apt install ncal
+ 1428  cal
+ 1429  ncal
+ 1430  ncal 2024
+ 1431  history >/home/bhushan/Desktop/Os_Assignment/assignment.txt
+ 1432  history>/home/bhushan/Desktop/Os_Assignment/Assignment1/log.txt
